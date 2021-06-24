@@ -1,0 +1,16 @@
+.testHeader{
+    color:white;
+    text-align: center;
+}
+
+.testHeader h1{
+    font-weight: bolder;
+    color:red
+}
+.testHeader h6{
+    font-weight: 800;
+}
+
+.testBody{
+    color: white;
+}

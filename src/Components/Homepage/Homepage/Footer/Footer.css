@@ -1,0 +1,23 @@
+.fullFooter{
+    background-color: black;
+}
+.footerSide h3{
+    color: white
+   }
+.footerSide p{
+ color: grey;
+}
+
+.footerLinks h4{
+    color: red;
+}
+
+.footerLinks h5{
+    color:white
+}
+
+
+.footerLinks p{
+    
+    color: grey ;
+}

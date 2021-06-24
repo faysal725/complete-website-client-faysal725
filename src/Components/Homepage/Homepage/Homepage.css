@@ -1,0 +1,35 @@
+.secondPart{
+
+    text-align: center;
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: white
+}
+
+.secondPart h3{
+    color: red;
+    font-weight:bold
+}
+
+.serviceSection{
+    text-align: center;
+    background-color: black;
+    color: white
+}
+
+.FindMore{
+    background-color: black;
+}
+
+
+.testimonial{
+    background-color: black;
+}
+.subscribe{
+    background-color: black
+}
+
+.footer{
+    background-color: black;
+}

@@ -1,0 +1,25 @@
+.subFull{
+    position: relative;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+.subImage{
+    height: 800px;
+    width: 100%;
+}
+
+.centered3 {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+  }
+
+  .subHeader{
+      color: red;
+  }
+
+  .subButton{
+      background-color: red;
+      color: white;
+  }
